@@ -1,0 +1,15 @@
+# 凭证
+.butian-token.json
+*.token
+.env
+.env.*
+
+# 运行产物
+__pycache__/
+*.pyc
+_mac_term_test.png
+node_modules/
+
+# 本地临时
+.DS_Store
+Thumbs.db
